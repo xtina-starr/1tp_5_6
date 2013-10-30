@@ -1,5 +1,4 @@
 puts 'What is your favorite number?'
 number = gets.chomp
-'21'
 favorite_number = number.to_i + 1
 favorite_number.to_s + ' is a bigger, better favorite number!'
